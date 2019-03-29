@@ -1,4 +1,4 @@
-alert('Hello');
+/*alert('Hello');
 
 const userName = 'John';
 alert(userName);
@@ -22,4 +22,4 @@ else {
 function addOne (num) {
     const result = num +1;
     return result;
-}
+}*/
